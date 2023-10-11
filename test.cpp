@@ -7,4 +7,6 @@ int main()
     b=2;
     cout<<"hello world\n";
     cout<<a<<b;
+
+    return 0;
 }

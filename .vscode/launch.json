@@ -1,6 +1,7 @@
 {
     "version": "0.2.0",
     "configurations": [
+        
         {
             "name": "C/C++: C:\\msys64\\mingw64\\bin\\g++.exe 生成和调试活动文件",
             "type": "cppdbg",
